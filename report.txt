@@ -1,0 +1,12 @@
+Timer unit: 1e-06 s
+
+Total time: 4.2e-05 s
+File: /home/pablo/Dropbox/PosDoc/Codigo/DSE python/main.py
+Function: do_stuff at line 5
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+     5                                           def do_stuff():
+     6         1         21.0     21.0     50.0      import project.import_data
+     7         1         21.0     21.0     50.0      import project.dse
+
